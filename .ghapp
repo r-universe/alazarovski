@@ -1,0 +1,10 @@
+{
+  "id": 182674342,
+  "created_at": "2026-11-16T19:01:15.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["rddr"]
+}
